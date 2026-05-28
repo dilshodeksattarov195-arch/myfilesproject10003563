@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userdarse",
+        "uuid": 459627,
+        "checksum": "5hu1rh"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
